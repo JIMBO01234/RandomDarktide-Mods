@@ -14,7 +14,7 @@ The Havoc Boss trigger mod uses code from the Strikemap and the Respawn Rewind m
 | RecolorBossHealthBars | boss nicknames and “the Bonker”/”the Slasher” Captain weapon names with their own name and bar colours. |
 | ToggleRevive | press interact once to revive, rescue, pull up or un-net a teammate instead of holding. |
 | Transonic_Stance_Colors_lightened | Lighter on performance than the og mod. |
-| big_e_protects | it shows a Holy Revenant status icon with position, size and opacity settings. |
+| big_e_protects | it shows a Holy Revenant status icon with position, size and opacity settings. Also shows Crusher and Maul charge cooldowns and the Zealot undying with a border around the passive. |
 | i_wanna_see_2 | a “disable while playing Psyker” toggle, a flamer sound volume slider, and colour and brightness settings for the Psyker shield floor radius. |
 | inventory_crafting | adds Hadron crafting buttons to the inventory plus Quick Mastery, which buys weapons from Brunt’s Armoury to level mastery. |
 | ovenproof_scoreboard_plugin | Adds a “toughness shared” scoreboard row, using an estimate adapted from Overflow Meter so that mod isn’t required. |
